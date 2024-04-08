@@ -7,3 +7,5 @@
 Закомітити код та зробити pull request.
 
 В README файлі навести UML діаграму коду згідно власного варіанту з короткими поясненнями.
+## UML
+![image](https://github.com/olehSokalskyi/05-abstract-factory-olehSokalskyi/assets/162996249/ec7ed5d8-4207-40df-a17a-3a185c8ef40b)
